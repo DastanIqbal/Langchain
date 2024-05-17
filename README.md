@@ -2,7 +2,8 @@
 
 - [LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
 
-![screenshots](resources/rag_img.png) 
+<img width="500" alt="rag_img" src="resources/rag_img.png">
+
 
 ## LangChain for LLM Application Development
 ### Retrieval Augmented Generation (RAG)
