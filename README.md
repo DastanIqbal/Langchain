@@ -44,7 +44,7 @@ Download Ollama
 - ConversationTokenBufferMemory
 - ConversationSummaryMemory
 
-### Chains in LangChain 
+### LangChain: Chains 
 - LLMChain
 - Sequential Chains
 	- SimpleSequentialChain
