@@ -1,6 +1,24 @@
 ## LangChain Tutorial from Deeplearning.ai
 
-- [LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
+### LLM 
+
+[Ollama](https://ollama.com/)
+
+[Ollama Models](https://ollama.com/library)
+
+[Ollama Github](https://github.com/ollama/ollama)
+
+```
+Download Ollama
+
+> ollama run llama3
+> ollama pull nomic-embed-text
+```
+
+
+
+
+## [LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
 
 <img width="500" alt="rag_img" src="resources/rag_img.png">
 
