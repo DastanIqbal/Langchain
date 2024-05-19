@@ -16,14 +16,10 @@ Download Ollama
 ```
 
 
+## [LangChain Chat with Your Data](https://learn.deeplearning.ai/courses/langchain-chat-with-your-data)
 
+<img width="500" alt="rag_img" src="resources/rag.jpeg">
 
-## [LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
-
-<img width="500" alt="rag_img" src="resources/rag_img.png">
-
-
-## LangChain for LLM Application Development
 ### Retrieval Augmented Generation (RAG)
 
 - Extract: Documents come in all sorts of file formats (.doc, .pdf, etc.) and contain all sorts of data formats (text, tables, images, movies). These must be extracted and put into a format that can be processed by the next stages.
@@ -37,6 +33,21 @@ Download Ollama
 	- Retrieval: The stored and query vectors represent meaning, so retrieval is the process of finding the k entries in the database that are ‘closest’ to the query vector. Lots of details here!
 	- k results are provided to an LLM which uses them to form an ‘augmented’  response.
 
+
+- Document Loading
+- Document Splitting
+- Vectorestores and Embedding
+- Retrieval 
+- Question Answering
+- Chat
+
+
+## [LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
+
+<img width="500" alt="rag_img" src="resources/rag_img.png">
+
+
+## LangChain for LLM Application Development
 
 ### LangChain: Memory 
 - ConversationBufferMemory
