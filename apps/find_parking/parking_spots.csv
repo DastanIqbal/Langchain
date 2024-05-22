@@ -718,7 +718,7 @@ Floor,Parking Number,Parking Status,Parking Type,Metadata
 3,717,Empty,Normal,Right Corner
 3,718,Empty,Special Need,Left Corner
 4,719,Empty,VIP,Near to Door
-1,720,Filled,Normal,Near to Stairs
+1,720,Empty,Normal,Near to Stairs
 5,721,Empty,Normal,Near to Lift
 2,722,Filled,Special Need,Right Corner
 5,723,Filled,Special Need,Right Corner
