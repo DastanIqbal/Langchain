@@ -66,3 +66,7 @@ Download Ollama
 - Manual evaluation (and debuging)
 - LLM-assisted evaluation
 - LangChain evaluation platform
+
+
+## Apps
+- [Find Parking Spots](https://github.com/DastanIqbal/Langchain/blob/main/apps/find_parking/parking_spots.ipynb)
